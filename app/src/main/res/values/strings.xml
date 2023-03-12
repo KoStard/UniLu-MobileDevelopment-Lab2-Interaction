@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UpCounter</string>
+    <string name="clickMeButtonText">Count</string>
+    <string name="defaultCount">0</string>
+</resources>
